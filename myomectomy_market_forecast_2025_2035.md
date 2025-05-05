@@ -6,6 +6,9 @@ The global myomectomy market is poised for substantial growth in the coming deca
 
 Myomectomy is a surgical procedure aimed at removing uterine fibroids while preserving the uterus. Unlike hysterectomy, which involves removing the entire uterus, myomectomy retains a woman’s ability to conceive, making it the preferred option for those who wish to maintain fertility. As fibroids can cause heavy menstrual bleeding, pelvic pain, and fertility complications, many women—especially between the ages of 30 and 50—seek timely intervention.
 
+![Myomectomy](https://github.com/user-attachments/assets/0db058a8-cd93-4f8f-8c44-d0b0b57d0981)
+
+
 Three major types of myomectomy procedures are commonly performed:
 
 - **Open Myomectomy**
